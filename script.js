@@ -218,9 +218,3 @@ function downloadLeaderboard() {
   link.click();
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("start-btn").addEventListener("click", startGame);
-  document.getElementById("guess-btn").addEventListener("click", checkGuess);
-  document.getElementById("next-btn").addEventListener("click", nextCelebrity);
-  document.getElementById("restart-btn").addEventListener("click", restartGame);
-});
