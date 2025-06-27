@@ -25,7 +25,7 @@ const celebrities = [
   // Bron foto: https://nl.pinterest.com/pin/714313190935088467/
   { name: "Little Simz", image: "images/littlesimz.jpg", hint: "A British rapper and actress, praised for her lyricism and featured in the Netflix series Top Boy." },
   // Bron foto: https://nl.pinterest.com/pin/7459155628488700/
-  { name: "Megan Thee Stallion", image: "image/megants.jpg", hint: "Tall, Texan, and trademarked the summer of 2019." },
+  { name: "Megan Thee Stallion", image: "images/megants.jpg", hint: "Tall, Texan, and trademarked the summer of 2019." },
   // Bron foto: https://nl.pinterest.com/pin/6755468185605269/
   { name: "Playboy Carti", image: "images/playboycarti.jpg", hint: "Known for adlibs and an elusive style." },
   // Bron foto: https://nl.pinterest.com/pin/211174977273729/
